@@ -84,3 +84,22 @@ h3, p, h1{
     margin-bottom: 150px;
     
 }
+.GE{
+    float:left;
+    border-radius:50%;
+}
+.basketBaller{
+    float:left;
+    border-radius: 20%;
+}
+.books{
+    float:left;
+    border-radius: 45%;
+}
+
+/*
+git add *
+git commit -m [message]
+git push origin master
+
+*/
