@@ -61,3 +61,11 @@ h3, p, h1{
 #active{
     color: #f00;
 }
+.subText{
+    margin-bottom: 35px;
+    text-align: center;
+    color:#fff;
+}
+.sub{
+    margin-bottom: 45px;
+}
